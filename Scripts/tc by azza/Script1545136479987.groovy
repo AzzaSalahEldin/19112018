@@ -13,5 +13,9 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
+<<<<<<< HEAD
 WebUI.comment('azza by azza')
+=======
+WebUI.comment('ibthal')
+>>>>>>> branch 'master' of https://github.com/AzzaSalahEldin/19112018
 
