@@ -15,3 +15,5 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.comment('ibthal2')
 
+WebUI.setText(findTestObject(null), 'azza')
+
