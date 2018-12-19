@@ -15,5 +15,5 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.comment('ibthal2')
 
-WebUI.comment('ibthal')
+WebUI.comment('ibthal3')
 
