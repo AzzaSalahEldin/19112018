@@ -15,6 +15,5 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.comment('ibthal2')
 
-
-WebUI.acceptAlert()
+WebUI.comment('ibthal')
 
