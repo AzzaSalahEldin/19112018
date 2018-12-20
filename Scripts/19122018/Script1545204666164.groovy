@@ -21,3 +21,5 @@ WebUI.comment('ali')
 
 WebUI.comment('asmaa')
 
+WebUI.acceptAlert()
+
