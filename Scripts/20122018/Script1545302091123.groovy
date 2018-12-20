@@ -19,3 +19,5 @@ WebUI.acceptAlert()
 
 WebUI.setText(findTestObject(null), '')
 
+WebUI.comment('')
+
