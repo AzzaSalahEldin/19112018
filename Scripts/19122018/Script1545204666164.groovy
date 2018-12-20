@@ -19,5 +19,5 @@ WebUI.comment('azza')
 
 WebUI.comment('ali')
 
-WebUI.comment('asmaa')
+WebUI.click(findTestObject(null))
 
