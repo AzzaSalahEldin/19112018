@@ -21,3 +21,5 @@ WebUI.setText(findTestObject(null), '')
 
 WebUI.comment('')
 
+WebUI.click(findTestObject(null))
+
