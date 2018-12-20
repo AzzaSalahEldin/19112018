@@ -21,7 +21,9 @@ WebUI.comment('ali')
 
 WebUI.comment('asmaa')
 
-WebUI.acceptAlert()
+WebUI.click(findTestObject(null))
+
+WebUI.click(findTestObject(null))
 
 WebUI.comment('')
 
