@@ -23,3 +23,5 @@ WebUI.comment('')
 
 WebUI.click(findTestObject(null))
 
+WebUI.navigateToUrl('')
+
