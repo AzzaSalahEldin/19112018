@@ -15,5 +15,5 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.comment('azza')
 
-WebUI.acceptAlert()
+WebUI.click(findTestObject(null))
 
